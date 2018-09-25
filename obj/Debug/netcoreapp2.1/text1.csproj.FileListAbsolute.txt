@@ -1,0 +1,11 @@
+d:\C#课程\text1\bin\Debug\netcoreapp2.1\text1.deps.json
+d:\C#课程\text1\bin\Debug\netcoreapp2.1\text1.runtimeconfig.json
+d:\C#课程\text1\bin\Debug\netcoreapp2.1\text1.runtimeconfig.dev.json
+d:\C#课程\text1\bin\Debug\netcoreapp2.1\text1.dll
+d:\C#课程\text1\bin\Debug\netcoreapp2.1\text1.pdb
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.csprojAssemblyReference.cache
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.csproj.CoreCompileInputs.cache
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.AssemblyInfoInputs.cache
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.AssemblyInfo.cs
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.dll
+d:\C#课程\text1\obj\Debug\netcoreapp2.1\text1.pdb
